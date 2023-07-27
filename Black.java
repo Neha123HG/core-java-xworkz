@@ -1,0 +1,2 @@
+class Black extends Color{
+}

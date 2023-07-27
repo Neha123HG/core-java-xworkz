@@ -1,0 +1,3 @@
+class google extends SearchEngine
+{
+}

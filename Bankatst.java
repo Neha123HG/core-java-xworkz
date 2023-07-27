@@ -20,7 +20,7 @@ System.out.println(bank.getBranchCOde());
 bank.setAddress("Hassan123456");
 System.out.println(bank.getAddress());
 
-bank.setHelplino(2546879125L);
+bank.setHelplino(254-6879-125);
 System.out.println(bank.getHelplino());
 
 bank.setBranchMnager("neha");
@@ -30,7 +30,7 @@ System.out.println(bank.getBranchMnager());
 bank.setIfscCode("BABAlu0123");
 System.out.println(bank.getIfscCode());
 
-bank.setMiscCode(456456);
+bank.setMiscCode(456);
 System.out.println(bank.getMiscCode());
 
 bank.setNoOfLockers(10);

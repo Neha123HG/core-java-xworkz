@@ -1,0 +1,2 @@
+class Bangaluru extends City{
+}

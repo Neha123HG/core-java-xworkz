@@ -1,0 +1,2 @@
+class EarRing extends accessories{
+}

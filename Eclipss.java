@@ -1,0 +1,3 @@
+class Eclipss extends IDE
+{
+}

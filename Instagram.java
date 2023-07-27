@@ -1,0 +1,5 @@
+class Instagram extends SocialMediaApp{
+
+
+
+}
